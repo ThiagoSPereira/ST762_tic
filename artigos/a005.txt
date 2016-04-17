@@ -1,0 +1,4 @@
+Artigo005
+Tiago,Jorge
+Resumo do artigo. Ainda deve ser resolvido o formato de armazenamento de informações do artigo. Inicialmente será usado caracter de quebra de linha '\n' para indicar o novo campo.
+a003.pdf
